@@ -392,7 +392,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [kukapay/uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp) 🐍 ☁️ - AIエージェントが複数のブロックチェーンでUniswap DEXでのトークンスワップを自動化するMCPサーバー
 - [kukapay/whale-tracker-mcp](https://github.com/kukapay/whale-tracker-mcp) 🐍 ☁️ - 暗号通貨クジラ取引を追跡するMCPサーバー
 - [laukikk/alpaca-mcp](https://github.com/laukikk/alpaca-mcp) 🐍 ☁️ - 株式と暗号通貨ポートフォリオの管理、取引の実行、市場データへのアクセスを提供するAlpaca取引API用MCPサーバー
-- [longbridge/longbridge-mcp](https://github.com/longbridge/longbridge-mcp) 🎖️ 🦀 ☁️ - 公式Longbridge証券MCP — 米国/香港市場のリアルタイム株価、オプション、取引、ファンダメンタル、アナリスト評価、決算カレンダー、価格アラート、積立投資、ポートフォリオ分析、コミュニティ共有リストをカバーする110ツール。`https://openapi.longbridge.com/mcp` でホストされ、RFC 9728 準拠のOAuth 2.1対応。
+- [longbridge/longbridge-mcp](https://github.com/longbridge/longbridge-mcp) [![longbridge/longbridge-mcp MCP server](https://glama.ai/mcp/servers/longbridge/longbridge-mcp/badges/score.svg)](https://glama.ai/mcp/servers/longbridge/longbridge-mcp) 🎖️ 🦀 ☁️ - 公式Longbridge証券MCP — 米国/香港市場のリアルタイム株価、オプション、取引、ファンダメンタル、アナリスト評価、決算カレンダー、価格アラート、積立投資、ポートフォリオ分析、コミュニティ共有リストをカバーする110ツール。`https://openapi.longbridge.com/mcp` でホストされ、RFC 9728 準拠のOAuth 2.1対応。
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) 📇 ☁️ - 30以上のEVMネットワークのための包括的なブロックチェーンサービス、ネイティブトークン、ERC20、NFT、スマートコントラクト、取引、ENS解決をサポート
 - [mcpdotdirect/starknet-mcp-server](https://github.com/mcpdotdirect/starknet-mcp-server) 📇 ☁️ - ネイティブトークン（ETH、STRK）、スマートコントラクト、StarknetID解決、トークン転送をサポートする包括的なStarknetブロックチェーン統合
 - [minhyeoky/mcp-server-ledger](https://github.com/minhyeoky/mcp-server-ledger) 🐍 🏠 - 金融取引の管理とレポート生成のためのledger-cli統合
